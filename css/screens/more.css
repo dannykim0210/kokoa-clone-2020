@@ -38,3 +38,20 @@
   font-size: 32px;
   color: white;
 }
+.user-component_subtitle-exclamation {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.user-component-exclamation {
+  border: 1.8px solid tomato;
+  border-radius: 50%;
+  text-align: center;
+  width: 10px;
+  height: 10px;
+  font-size: 8px;
+  color: tomato;
+  position: absolute;
+  top: 10px;
+  right: -18px;
+}

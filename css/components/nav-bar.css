@@ -59,4 +59,14 @@
 }
 .nav__btn:last-child {
   animation-delay: 0.8s;
+  position: relative;
+}
+.nav_new {
+  background-color: tomato;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  position: absolute;
+  top: -15px;
+  right: -8px;
 }
